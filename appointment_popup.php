@@ -105,7 +105,7 @@ $subName.=$res[0];
   </div>
              </div>
              <br>
-  <button type="submit" class="btn btn-default">Fix Appointment</button>
+  <button type="submit" class="btn btn-default">Schedule Appointment</button>
 </form>
   </div>
   
