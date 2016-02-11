@@ -56,7 +56,7 @@ $subjectsArray=$object->getAllSubject();
 
 		<header id="head" class="secondary">
             <div class="container">
-                    <h1>Courses</h1>
+                    <h1>Courses Offered</h1>
                     <p></p>
                 </div>
     </header>
